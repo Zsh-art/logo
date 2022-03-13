@@ -31,7 +31,7 @@ Zoltán Hidvégi, Andrew Main, Peter Stephenson, Sven Wischnowsky, and others.
 * Can I change any colors or fonts? _(see `assets/z_shell-style-guide.pdf` for acceptable use)_
 * Use the icon for my logo?
 
-If you still have questions or concerns please email <zsh-users-subscribe@zsh.org>
+If you still have questions or concerns please email <zsh-workers-subscribe@zsh.org>
 
 ## Sightings
 
