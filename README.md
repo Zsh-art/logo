@@ -1,4 +1,5 @@
 # The Official Zsh (Z Shell) Logo
+
 Everything you need to start using the official Z shell logo.
 
 <h3 align="center">
