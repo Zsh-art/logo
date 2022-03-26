@@ -31,6 +31,15 @@ Zoltán Hidvégi, Andrew Main, Peter Stephenson, Sven Wischnowsky, and others.
 * Can I change any colors or fonts? _(see `assets/z_shell-style-guide.pdf` for acceptable use)_
 * Use the icon for my logo?
 
+### Favicons
+
+Use the images in the `favicon` folder and add this HTML in `<head></head>`
+
+```html
+<link rel="icon" type="image/svg+xml" href="/path/to/favicon.svg">
+<link rel="icon" type="image/png" href="/path/to/favicon.png">
+```
+
 If you still have questions or concerns please email <zsh-workers-subscribe@zsh.org>
 
 ## Sightings
