@@ -46,3 +46,7 @@ If you still have questions or concerns please email <zsh-workers-subscribe@zsh.
 ## Sightings
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/Zsh-art/logo/pulls) with the link.
+
+* [Zsh.org](https://www.zsh.org/)
+* [Zsh on Sourceforge](https://zsh.sourceforge.io)
+* [Wikipedia](https://en.wikipedia.org/wiki/Z_shell) 
