@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: Copyright Justin Dorfman and contributors <https://github.com/Zsh-art/logo>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # The Official Zsh (Z Shell) Logo
 
 Everything you need to start using the official Z shell logo.
