@@ -1,0 +1,15 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Zsh-art/logo
+Upstream-Contact: Justin Dorfman (@jdorfman) <>
+Source: https://github.com/Zsh-art/logo
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
+
+Files: app-icons/* favicon/* png/* svg/* z_shell-style-guide.pdf
+Copyright: Justin Dorfman and contributors <https://github.com/Zsh-art/logo>
+License: CC-BY-SA-4.0
+
