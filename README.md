@@ -50,3 +50,5 @@ Have you seen the logo around? Make a [Pull Request](https://github.com/Zsh-art/
 * [Zsh.org](https://www.zsh.org/)
 * [Zsh on Sourceforge](https://zsh.sourceforge.io)
 * [Wikipedia](https://en.wikipedia.org/wiki/Z_shell) 
+* [Iconify](https://icon-sets.iconify.design/logos/zsh/), via...
+* [SVG Logos](https://github.com/gilbarbara/logos) from Gil Barbara ([@gilbarbara](https://github.com/gilbarbara))
